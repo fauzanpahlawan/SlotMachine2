@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SlotMachine</string>
+    <string name="spin">Spin</string>
+    <string name="slot_3">Slot 3</string>
+    <string name="slot_1">Slot 1</string>
+    <string name="slot_2">Slot 2</string>
+    <string name="tap_to_stop">Tap to stop ...</string>
+    <string name="WinOne">CHERRY 50 POINTS!</string>
+    <string name="WinTwo">LEMON 100 POINTS!</string>
+    <string name="WinThree">GRAPES 300 POINTS!</string>
+    <string name="WinFour">BANANA 900 POINTS!</string>
+    <string name="WinFive">ORANGE 3K POINTS!</string>
+    <string name="WinSix">GOLDEN CHIPS 500K POINTS!</string>
+    <string name="WinSeven">JACKPOT 1 Million POINTS!</string>
+    <string name="WinZonk">Zonk :( ...</string>
+</resources>
