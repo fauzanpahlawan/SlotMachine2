@@ -63,8 +63,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     RandomTask randomTask1;
     RandomTask randomTask2;
     RandomTask randomTask3;
-    boolean cheat = true; //set TRUE or FALSE to active Cheat
-    int cheatValue = R.drawable.jackpot;
+    boolean cheat = false; //set TRUE or FALSE to active Cheat
+    int cheatValue = R.drawable.six;
 
     @Override
     public void onClick(View view) {
